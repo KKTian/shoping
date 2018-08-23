@@ -11,7 +11,7 @@ import java.util.Date;
  * 描述:
  * 公共实体参数
  *
- * @outhor gaobitian
+ * @outhor KK
  * @create 2018-07-09 16:15
  */
 @MappedSuperclass

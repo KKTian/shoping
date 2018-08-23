@@ -22,7 +22,7 @@ import java.util.Arrays;
 /**
  * 描述: Controller reqeust/response日志拦截类
  *
- * @outhor gaobitian
+ * @outhor kk
  * @create 2018-05-29 13:47
  */
 

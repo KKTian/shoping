@@ -5,7 +5,7 @@ import com.study.shoping.base.enums.http.IServiceStatus;
 /**
  * 描述: 运行时异常类
  *
- * @outhor gaobitian
+ * @outhor KK
  * @create 2018-05-31 17:30
  */
 public class ShopingRunException extends RuntimeException {
